@@ -59,8 +59,16 @@ export const Social: Model = {
           value: 'reddit'
         },
         {
+          label: 'TikTok',
+          value: 'tiktok'
+        },
+        {
           label: 'Twitter',
           value: 'twitter'
+        },
+        {
+          label: 'X',
+          value: 'x'
         },
         {
           label: 'Vimeo',

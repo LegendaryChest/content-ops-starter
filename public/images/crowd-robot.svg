@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="title desc">
+  <title id="title">Robot fan</title>
+  <desc id="desc">Robot spectator with glowing eyes and antenna.</desc>
+  <rect width="200" height="200" rx="28" fill="#0F2442" />
+  <rect x="42" y="52" width="116" height="132" rx="26" fill="#1D3E6F" />
+  <rect x="62" y="32" width="76" height="56" rx="18" fill="#001F3F" stroke="#FFD700" stroke-width="6" />
+  <circle cx="86" cy="60" r="14" fill="#0EA5E9" />
+  <circle cx="114" cy="60" r="14" fill="#FF6B6B" />
+  <rect x="54" y="108" width="92" height="40" rx="20" fill="#FFD700" />
+  <path d="M74 130h52" stroke="#001F3F" stroke-width="8" stroke-linecap="round" />
+  <rect x="78" y="160" width="36" height="12" rx="6" fill="#001F3F" />
+  <g stroke="#FFD700" stroke-width="4" stroke-linecap="round">
+    <line x1="80" y1="32" x2="68" y2="12" />
+    <line x1="120" y1="32" x2="132" y2="12" />
+  </g>
+  <circle cx="68" cy="10" r="6" fill="#0EA5E9" />
+  <circle cx="132" cy="10" r="6" fill="#FF6B6B" />
+</svg>

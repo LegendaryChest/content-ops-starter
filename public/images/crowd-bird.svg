@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="title desc">
+  <title id="title">Bird commentator</title>
+  <desc id="desc">Bird in the audience holding a tiny microphone.</desc>
+  <rect width="200" height="200" rx="28" fill="#11294D" />
+  <path d="M60 150c-10-22 4-58 40-70 12-4 24-2 34 4 34 18 40 56 26 82-36 10-70 10-100-16z" fill="#4FC3F7" />
+  <path d="M70 90l-18-26c-10-14 10-28 20-14l20 24z" fill="#FFD700" />
+  <circle cx="94" cy="114" r="12" fill="#001F3F" />
+  <circle cx="124" cy="110" r="10" fill="#001F3F" />
+  <path d="M84 132c16 10 34 10 48 0-6 16-18 26-24 26s-18-10-24-26z" fill="#FF6B6B" />
+  <rect x="130" y="124" width="12" height="40" rx="6" fill="#FFD700" />
+  <circle cx="136" cy="116" r="10" fill="#FFD700" />
+  <rect x="120" y="150" width="36" height="12" rx="6" fill="#001F3F" />
+</svg>

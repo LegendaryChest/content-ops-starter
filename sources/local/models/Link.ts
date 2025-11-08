@@ -118,6 +118,10 @@ export const Link: Model = {
           value: 'reddit'
         },
         {
+          label: 'TikTok',
+          value: 'tiktok'
+        },
+        {
           label: 'Send',
           value: 'send'
         },
@@ -128,6 +132,10 @@ export const Link: Model = {
         {
           label: 'Twitter',
           value: 'twitter'
+        },
+        {
+          label: 'X',
+          value: 'x'
         },
         {
           label: 'Vimeo',

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Byte the cat</title>
+  <desc id="desc">Illustration of a dramatic cat host with cape.</desc>
+  <rect width="320" height="320" rx="36" fill="#120F2E" />
+  <g transform="translate(52 44)">
+    <path d="M108 216c-56 0-100-44-100-100S52 16 108 16s100 44 100 100-44 100-100 100z" fill="#4C3C87" />
+    <path d="M108 54c32 0 56 24 56 54 0 32-24 58-56 58s-56-26-56-58c0-30 24-54 56-54z" fill="#FFD700" />
+    <ellipse cx="78" cy="112" rx="14" ry="20" fill="#001F3F" />
+    <ellipse cx="138" cy="112" rx="14" ry="20" fill="#001F3F" />
+    <circle cx="80" cy="112" r="6" fill="#FFE8A3" />
+    <circle cx="140" cy="112" r="6" fill="#FFE8A3" />
+    <path d="M108 156c18 0 28 12 28 12-6 18-20 30-28 30s-22-12-28-30c0 0 10-12 28-12z" fill="#FF6B6B" />
+    <path d="M40 208c18-44 54-66 68-72 6 6 20 12 32 12s26-6 32-12c14 6 50 28 68 72-38 10-92 24-100 24s-60-14-100-24z" fill="#001F3F" opacity="0.9" />
+    <path d="M76 24l-18-30c-10-16 12-28 22-14l20 30z" fill="#FF6B6B" />
+    <path d="M140 24l18-30c10-16-12-28-22-14l-20 30z" fill="#FF6B6B" />
+  </g>
+</svg>

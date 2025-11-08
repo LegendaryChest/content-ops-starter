@@ -1,94 +1,90 @@
 {
+    "title": "Paws with Opinions",
     "logo": {
-        "url": "/images/logo-dark.svg",
-        "altText": "Logo dark",
+        "url": "/images/paws-logo.svg",
+        "altText": "Paws with Opinions logo",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": ["mr-4"]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
+            "label": "Home",
+            "altText": "Jump to home",
+            "url": "/#home",
+            "showIcon": false,
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
+            "label": "Episodes",
+            "altText": "Skip to episodes",
+            "url": "/#episodes",
+            "showIcon": false,
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
-            "icon": "arrowRight",
-            "iconPosition": "right",
+            "label": "About",
+            "altText": "Meet the hosts",
+            "url": "/#about",
+            "showIcon": false,
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Dropdown",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
+            "label": "Opinion Poll",
+            "altText": "Share your opinion",
+            "url": "/#poll",
+            "showIcon": false,
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "Contact",
+            "altText": "Contact the producers",
+            "url": "/#contact",
+            "showIcon": false,
+            "style": "secondary",
+            "type": "Link"
         }
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
-            "icon": "arrowRight",
-            "iconPosition": "right",
+            "label": "YouTube",
+            "altText": "Watch on YouTube",
+            "url": "https://youtube.com/channel/pawswithopinions",
+            "showIcon": true,
+            "icon": "youtube",
+            "iconPosition": "left",
             "style": "secondary",
-            "type": "Button"
+            "type": "Link"
         },
         {
-            "label": "Log in",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Button"
+            "label": "TikTok",
+            "altText": "Follow on TikTok",
+            "url": "https://tiktok.com/@pawswithopinions",
+            "showIcon": true,
+            "icon": "tiktok",
+            "iconPosition": "left",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "X",
+            "altText": "Join the chaos on X",
+            "url": "https://x.com/pawswithopinions",
+            "showIcon": true,
+            "icon": "x",
+            "iconPosition": "left",
+            "style": "secondary",
+            "type": "Link"
         }
     ],
     "variant": "logo-left-primary-nav-centered",
-    "colors": "bg-light-fg-dark",
+    "colors": "bg-dark-fg-light",
     "type": "Header"
 }

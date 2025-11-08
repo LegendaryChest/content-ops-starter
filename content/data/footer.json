@@ -1,34 +1,36 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
-        "altText": "Logo light",
+        "url": "/images/paws-logo.svg",
+        "altText": "Paws with Opinions logo",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "Byte and Barkley deliver 10-second villainous hot takes, studio chaos, and crowd howls night after night.",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Navigate",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
+                "label": "Watch Episodes",
+                "url": "/#episodes",
+                "showIcon": true,
+                "icon": "play",
+                "iconPosition": "left",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
+                "label": "Meet the Hosts",
+                "url": "/#about",
+                "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
+                "label": "Opinion Poll",
+                "url": "/#poll",
+                "showIcon": true,
+                "icon": "send",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
@@ -37,22 +39,23 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "Production",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
+                "label": "Press Kit",
+                "url": "mailto:press@pawswithopinions.com",
+                "showIcon": true,
+                "icon": "mail",
+                "iconPosition": "left",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
+                "label": "Sponsorships",
+                "url": "mailto:sponsor@pawswithopinions.com",
+                "showIcon": true,
+                "icon": "shoppingBag",
+                "iconPosition": "left",
                 "style": "secondary",
                 "type": "Link"
             }
@@ -61,49 +64,47 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
+            "altText": "Follow Byte and Barkley on TikTok",
+            "url": "https://tiktok.com/@pawswithopinions",
+            "icon": "tiktok",
             "type": "Social"
         },
         {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
+            "altText": "Watch shorts on YouTube",
+            "url": "https://youtube.com/channel/pawswithopinions",
+            "icon": "youtube",
             "type": "Social"
         },
         {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
+            "altText": "Chaos threads on X",
+            "url": "https://x.com/pawswithopinions",
+            "icon": "x",
             "type": "Social"
         },
         {
-            "altText": "Email link",
-            "url": "/",
+            "altText": "Email the show",
+            "url": "mailto:info@pawswithopinions.com",
             "icon": "mail",
             "type": "Social"
         }
     ],
     "legalLinks": [
         {
-            "label": "Terms",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
+            "label": "Terms of Chaos",
+            "url": "/terms",
+            "showIcon": false,
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
+            "label": "Privacy for Pets",
+            "url": "/privacy",
+            "showIcon": false,
             "style": "secondary",
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "© 2025 Paws with Opinions. All explosions are fictional, all laughs are real.",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }

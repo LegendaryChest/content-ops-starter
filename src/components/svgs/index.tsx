@@ -19,7 +19,9 @@ import Play from './play';
 import Reddit from './reddit';
 import Send from './send';
 import ShoppingBag from './shopping-bag';
+import TikTok from './tiktok';
 import Twitter from './twitter';
+import XIcon from './x';
 import Vimeo from './vimeo';
 import YouTube from './youtube';
 
@@ -45,7 +47,9 @@ export const iconMap = {
     reddit: Reddit,
     send: Send,
     shoppingBag: ShoppingBag,
+    tiktok: TikTok,
     twitter: Twitter,
+    x: XIcon,
     vimeo: Vimeo,
     youtube: YouTube
 };

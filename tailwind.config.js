@@ -23,8 +23,10 @@ module.exports = {
                 primary: themeStyle.primary
             },
             fontFamily: {
-                sans: ['Inter', 'sans-serif'],
-                serif: ['Roboto Slab', 'serif']
+                sans: ['Nunito', 'Inter', 'sans-serif'],
+                serif: ['Fredoka', 'Nunito', 'sans-serif'],
+                body: ['Nunito', 'Inter', 'sans-serif'],
+                display: ['Fredoka', 'Nunito', 'sans-serif']
             },
             gridTemplateColumns: {
                 16: 'repeat(16, minmax(0, 1fr))'

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="title desc">
+  <title id="title">Excited cat fan</title>
+  <desc id="desc">Cat silhouette cheering with speech bubble saying much wow.</desc>
+  <rect width="200" height="200" rx="28" fill="#122C56" />
+  <path d="M48 160c-16-32-4-76 32-96 12-8 24-8 36 0 36 20 48 64 32 96-36 16-64 16-100 0z" fill="#1F4A89" />
+  <path d="M70 80l-18-30c-10-16 12-28 22-14l18 28z" fill="#FFD700" />
+  <path d="M130 80l18-30c10-16-12-28-22-14l-18 28z" fill="#FFD700" />
+  <circle cx="78" cy="104" r="10" fill="#FFE8A3" />
+  <circle cx="122" cy="104" r="10" fill="#FFE8A3" />
+  <path d="M60 132c28 24 52 24 80 0-4 20-24 36-40 36s-36-16-40-36z" fill="#FFD700" />
+  <rect x="110" y="24" width="76" height="50" rx="14" fill="#0EA5E9" />
+  <text x="148" y="56" text-anchor="middle" font-family="'Fredoka', 'Nunito', sans-serif" font-size="18" font-weight="700" fill="#001F3F">much wow</text>
+</svg>
