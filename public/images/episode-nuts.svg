@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-labelledby="title desc">
+  <title id="title">Squirrel Nuke Chaos</title>
+  <desc id="desc">Stylized squirrel juggling glowing nuts over a countdown timer.</desc>
+  <rect width="320" height="200" rx="24" fill="#102B4E" />
+  <g transform="translate(32 24)">
+    <rect x="0" y="120" width="256" height="32" rx="16" fill="#001F3F" opacity="0.8" />
+    <circle cx="70" cy="96" r="48" fill="#FFB347" />
+    <path d="M64 74c18-22 48-10 52 14 2 12-6 26-18 34 0 20-16 30-32 22-12-6-14-20-6-30 6-8 18-10 26-6 4-6 2-10-4-12-8-2-18-10-18-22z" fill="#6B3200" />
+    <g transform="translate(138 32)">
+      <rect x="0" y="0" width="80" height="104" rx="18" fill="#001F3F" />
+      <text x="40" y="60" text-anchor="middle" font-family="'Fredoka', 'Nunito', sans-serif" font-size="38" font-weight="700" fill="#FFD700">10</text>
+    </g>
+    <circle cx="54" cy="32" r="12" fill="#FFD700" />
+    <circle cx="94" cy="18" r="10" fill="#4FC3F7" />
+    <circle cx="118" cy="44" r="9" fill="#FF6B6B" />
+  </g>
+</svg>

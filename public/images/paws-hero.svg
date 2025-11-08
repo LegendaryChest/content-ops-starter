@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" role="img" aria-labelledby="title desc">
+  <title id="title">Byte and Barkley on stage</title>
+  <desc id="desc">Stylized cat and dog hosts on a neon-lit stage with crowd silhouettes.</desc>
+  <defs>
+    <linearGradient id="stage" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B2A4A" />
+      <stop offset="100%" stop-color="#001F3F" />
+    </linearGradient>
+    <radialGradient id="spot" cx="50%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="rgba(255, 215, 0, 0.9)" />
+      <stop offset="75%" stop-color="rgba(255, 215, 0, 0.05)" />
+      <stop offset="100%" stop-color="rgba(0, 31, 63, 0)" />
+    </radialGradient>
+  </defs>
+  <rect width="960" height="640" fill="#001029" />
+  <ellipse cx="480" cy="380" rx="360" ry="320" fill="url(#spot)" />
+  <rect x="120" y="420" width="720" height="120" rx="60" fill="url(#stage)" />
+  <g fill="#0A233F" opacity="0.6">
+    <circle cx="80" cy="520" r="70" />
+    <circle cx="180" cy="540" r="80" />
+    <circle cx="300" cy="520" r="75" />
+    <circle cx="660" cy="530" r="95" />
+    <circle cx="820" cy="520" r="70" />
+  </g>
+  <g transform="translate(220 170)">
+    <path d="M120 280c-54 0-98-44-98-98s44-98 98-98 98 44 98 98-44 98-98 98z" fill="#31255A" />
+    <ellipse cx="80" cy="120" rx="26" ry="36" fill="#FFD700" />
+    <ellipse cx="160" cy="120" rx="26" ry="36" fill="#FFD700" />
+    <path d="M120 170c36 0 62-22 62-22 4 26-14 70-62 70s-66-44-62-70c0 0 26 22 62 22z" fill="#FFD700" />
+    <path d="M84 214c6-8 20-14 36-14s30 6 36 14c-10 10-24 16-36 16s-26-6-36-16z" fill="#001F3F" />
+    <circle cx="88" cy="164" r="10" fill="#001F3F" />
+    <circle cx="152" cy="164" r="10" fill="#001F3F" />
+    <path d="M120 232c10 0 20 2 28 6 0 18-20 32-28 32s-28-14-28-32c8-4 18-6 28-6z" fill="#FF6B6B" />
+    <path d="M72 70l-24-36c-12-20 18-34 28-16l20 36z" fill="#4FC3F7" />
+    <path d="M168 70l24-36c12-20-18-34-28-16l-20 36z" fill="#4FC3F7" />
+  </g>
+  <g transform="translate(520 200)">
+    <path d="M120 280c-54 0-98-44-98-98s44-98 98-98 98 44 98 98-44 98-98 98z" fill="#FFD700" />
+    <ellipse cx="80" cy="120" rx="22" ry="32" fill="#001F3F" />
+    <ellipse cx="160" cy="120" rx="22" ry="32" fill="#001F3F" />
+    <path d="M120 170c36 0 62-22 62-22 4 26-14 70-62 70s-66-44-62-70c0 0 26 22 62 22z" fill="#001F3F" />
+    <circle cx="84" cy="168" r="10" fill="#FFD700" />
+    <circle cx="156" cy="168" r="10" fill="#FFD700" />
+    <path d="M120 230c-18 0-34 8-34 24 0 24 22 42 34 42s34-18 34-42c0-16-16-24-34-24z" fill="#F75F2F" />
+    <path d="M72 68l-32-28c-16-14 4-42 22-26l34 30z" fill="#F75F2F" />
+    <path d="M168 68l32-28c16-14-4-42-22-26l-34 30z" fill="#F75F2F" />
+  </g>
+  <g transform="translate(280 380)">
+    <rect x="0" y="0" width="400" height="28" rx="14" fill="#182C4D" />
+    <rect x="60" y="-40" width="120" height="40" rx="20" fill="#FF3B30" />
+    <text x="120" y="-12" text-anchor="middle" font-family="'Fredoka', 'Nunito', sans-serif" font-size="22" font-weight="700" fill="#F5F1E6">NUKE</text>
+    <rect x="230" y="-50" width="120" height="50" rx="25" fill="#0EA5E9" />
+    <text x="290" y="-18" text-anchor="middle" font-family="'Fredoka', 'Nunito', sans-serif" font-size="18" font-weight="700" fill="#001F3F">BARK!</text>
+  </g>
+</svg>

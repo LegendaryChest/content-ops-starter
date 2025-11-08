@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="title desc">
+  <title id="title">Cheering dog fan</title>
+  <desc id="desc">Dog silhouette howling with confetti.</desc>
+  <rect width="200" height="200" rx="28" fill="#102A4B" />
+  <path d="M56 160c-14-28-6-74 42-90 14-4 26-2 36 6 32 22 42 64 26 94-46 10-76 10-104-10z" fill="#F8B26A" />
+  <path d="M70 84l-24-20c-16-12 0-34 16-22l26 22z" fill="#0EA5E9" />
+  <path d="M130 82l24-20c16-12 0-34-16-22l-26 22z" fill="#0EA5E9" />
+  <circle cx="86" cy="110" r="12" fill="#001F3F" />
+  <circle cx="126" cy="110" r="12" fill="#001F3F" />
+  <path d="M74 140c24 18 48 18 72 0-6 18-22 34-36 34s-30-16-36-34z" fill="#001F3F" />
+  <g fill="#FFD700" opacity="0.7">
+    <circle cx="40" cy="40" r="6" />
+    <circle cx="68" cy="26" r="4" />
+    <circle cx="98" cy="36" r="5" />
+    <circle cx="150" cy="28" r="6" />
+    <circle cx="168" cy="54" r="4" />
+  </g>
+</svg>

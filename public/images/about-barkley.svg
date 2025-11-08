@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Barkley the dog</title>
+  <desc id="desc">Illustration of an excitable dog co-host wearing headphones.</desc>
+  <rect width="320" height="320" rx="36" fill="#0C2346" />
+  <g transform="translate(48 44)">
+    <path d="M112 216c-58 0-104-46-104-104S54 8 112 8s104 46 104 104-46 104-104 104z" fill="#FFD27F" />
+    <path d="M112 54c36 0 66 26 66 60 0 34-30 64-66 64s-66-30-66-64c0-34 30-60 66-60z" fill="#FFE8A3" />
+    <ellipse cx="82" cy="120" rx="16" ry="24" fill="#001F3F" />
+    <ellipse cx="142" cy="120" rx="16" ry="24" fill="#001F3F" />
+    <circle cx="86" cy="122" r="6" fill="#F5F1E6" />
+    <circle cx="146" cy="122" r="6" fill="#F5F1E6" />
+    <path d="M112 164c-18 0-34 10-34 24 0 22 22 40 34 40s34-18 34-40c0-14-16-24-34-24z" fill="#F75F2F" />
+    <path d="M36 196c22-30 56-44 76-48 8 10 24 16 36 16s28-6 36-16c20 4 54 18 76 48-40 14-102 34-112 34s-72-20-112-34z" fill="#001F3F" opacity="0.85" />
+    <rect x="18" y="70" width="38" height="112" rx="18" fill="#0EA5E9" />
+    <rect x="168" y="70" width="38" height="112" rx="18" fill="#0EA5E9" />
+    <rect x="46" y="42" width="132" height="42" rx="21" fill="#001F3F" stroke="#0EA5E9" stroke-width="6" />
+    <circle cx="72" cy="20" r="20" fill="#F75F2F" />
+    <circle cx="168" cy="20" r="20" fill="#F75F2F" />
+  </g>
+</svg>

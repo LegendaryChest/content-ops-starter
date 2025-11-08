@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 100" role="img" aria-labelledby="title desc">
+  <title id="title">Paws with Opinions logo</title>
+  <desc id="desc">A stylized paw mark with bold lettering for the show name.</desc>
+  <rect width="320" height="100" rx="20" fill="#001F3F" />
+  <g transform="translate(28 16)">
+    <circle cx="26" cy="26" r="24" fill="#FFD700" />
+    <circle cx="10" cy="10" r="8" fill="#FF6B6B" />
+    <circle cx="42" cy="10" r="8" fill="#4FC3F7" />
+    <circle cx="10" cy="42" r="8" fill="#4FC3F7" />
+    <circle cx="42" cy="42" r="8" fill="#FF6B6B" />
+    <path d="M26 18c5.5 0 10 4.5 10 10s-4.5 10-10 10-10-4.5-10-10 4.5-10 10-10z" fill="#001F3F" />
+  </g>
+  <text x="120" y="48" font-size="34" font-family="'Fredoka', 'Nunito', sans-serif" font-weight="700" fill="#FFD700">Paws</text>
+  <text x="120" y="82" font-size="26" font-family="'Nunito', sans-serif" font-weight="600" fill="#F5F1E6">with Opinions</text>
+</svg>

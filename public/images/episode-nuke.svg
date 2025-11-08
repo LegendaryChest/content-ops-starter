@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-labelledby="title desc">
+  <title id="title">Guest Ejection</title>
+  <desc id="desc">Cat claw hovering above a dramatic red eject button.</desc>
+  <rect width="320" height="200" rx="24" fill="#091831" />
+  <g transform="translate(24 20)">
+    <rect x="0" y="136" width="272" height="44" rx="22" fill="#001F3F" />
+    <ellipse cx="136" cy="132" rx="112" ry="36" fill="#0B2A4A" />
+    <g transform="translate(72 60)">
+      <ellipse cx="64" cy="64" rx="64" ry="52" fill="#FFE066" />
+      <ellipse cx="64" cy="64" rx="44" ry="36" fill="#FF3B30" />
+      <text x="64" y="72" text-anchor="middle" font-family="'Fredoka', 'Nunito', sans-serif" font-size="28" font-weight="700" fill="#FFE8A3">NUKE</text>
+    </g>
+    <path d="M206 28c10-20 36-28 46-6 6 12-2 24-12 30l14 12c8 8-2 22-12 14l-22-20-20 12c-12 6-22-8-12-18z" fill="#FFD700" stroke="#FF6B6B" stroke-width="4" />
+    <circle cx="244" cy="28" r="16" fill="#FF6B6B" opacity="0.7" />
+  </g>
+</svg>
